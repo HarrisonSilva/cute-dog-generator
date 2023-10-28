@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+background-color: aqua;
+}
+
+img {
+margin-left: 450px;
+width: 400px;
+border-radius: 10px;
+}
+
+button {
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    font-size: large;
+    margin-left: 450px;
+}
+
+button:hover {
+    background-color: brown;
+    color: aliceblue;
+}
